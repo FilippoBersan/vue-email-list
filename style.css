@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to top, #ecf2ff 80%, #e3dffd 20%);
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  padding: 1.875rem;
+}
+
+.c-list {
+  display: flex;
+  justify-content: center;
+}
+
+.m-list {
+  list-style-type: none;
+  font-size: 1.875rem;
+}
